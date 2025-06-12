@@ -1,4 +1,4 @@
-Use schoolDB
+Use PLP_bookstore
 db.books.insertMany([
   {
     title: "The Alchemist",
