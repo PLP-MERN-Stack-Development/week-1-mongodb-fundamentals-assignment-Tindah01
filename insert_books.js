@@ -1,3 +1,4 @@
+Use schoolDB
 db.books.insertMany([
   {
     title: "The Alchemist",
